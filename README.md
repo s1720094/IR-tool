@@ -1,6 +1,6 @@
 # IR-tool
 
-Simple IR tool, that does the following:
+Simple IR tool, that does the following:  
 Pre-processeses text  
 - Tokenisation  
 - Stopword removal using stopwords.txt  
